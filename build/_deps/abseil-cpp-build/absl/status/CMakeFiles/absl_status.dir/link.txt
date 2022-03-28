@@ -1,0 +1,2 @@
+/home/manhhv/toolchains/gcc-arm-8.3-2019.03-x86_64-aarch64-linux-gnu/bin/aarch64-linux-gnu-ar qc libabsl_status.a  CMakeFiles/absl_status.dir/status.cc.o CMakeFiles/absl_status.dir/status_payload_printer.cc.o
+/home/manhhv/toolchains/gcc-arm-8.3-2019.03-x86_64-aarch64-linux-gnu/bin/aarch64-linux-gnu-ranlib libabsl_status.a

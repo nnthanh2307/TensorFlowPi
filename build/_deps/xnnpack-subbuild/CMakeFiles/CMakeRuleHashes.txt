@@ -1,0 +1,11 @@
+# Hashes of file build rules.
+9b52c1f2117a5bc1ee7bcaa184bc44ac /home/manhhv/Documents/QTApp/TensorFlow/tensorflow_src/build/src/xnnpack-populate-stamp/xnnpack-populate-build
+a5679b029b2649713c665c7817b65358 /home/manhhv/Documents/QTApp/TensorFlow/tensorflow_src/build/src/xnnpack-populate-stamp/xnnpack-populate-configure
+20806efde95cbfa9030d4ce3565f66df /home/manhhv/Documents/QTApp/TensorFlow/tensorflow_src/build/src/xnnpack-populate-stamp/xnnpack-populate-download
+a8c44a4ba971a4358ae1df49cacecae5 /home/manhhv/Documents/QTApp/TensorFlow/tensorflow_src/build/src/xnnpack-populate-stamp/xnnpack-populate-install
+15a14135dab0b1804ec39e2a7128bd4a /home/manhhv/Documents/QTApp/TensorFlow/tensorflow_src/build/src/xnnpack-populate-stamp/xnnpack-populate-mkdir
+0d256c3abdf2d41ee8edd5fbc0c0574f /home/manhhv/Documents/QTApp/TensorFlow/tensorflow_src/build/src/xnnpack-populate-stamp/xnnpack-populate-patch
+0b256ea4d2e2c4fcf001d24b7b10f74c /home/manhhv/Documents/QTApp/TensorFlow/tensorflow_src/build/src/xnnpack-populate-stamp/xnnpack-populate-test
+8f5dd12c5249454bf98fce2c8b0583d2 /home/manhhv/Documents/QTApp/TensorFlow/tensorflow_src/build/src/xnnpack-populate-stamp/xnnpack-populate-update
+ad7a9d70987ace7da0bfbc4ede015072 CMakeFiles/xnnpack-populate
+e73dfe170cef6bb71853e80c37ee4cc8 CMakeFiles/xnnpack-populate-complete

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/manhhv/Documents/QTApp/TensorFlow/tensorflow_src/build/ruy/ruy/profiler/instrumentation.cc
+ruy/profiler/instrumentation.h
+/home/manhhv/Documents/QTApp/TensorFlow/tensorflow_src/build/ruy/ruy/profiler/ruy/profiler/instrumentation.h
+cstring
+-
+
+ruy/ruy/profiler/instrumentation.h
+cstdio
+-
+mutex
+-
+vector
+-
+

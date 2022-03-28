@@ -1,0 +1,2 @@
+/home/manhhv/toolchains/gcc-arm-8.3-2019.03-x86_64-aarch64-linux-gnu/bin/aarch64-linux-gnu-ar qc libabsl_malloc_internal.a  CMakeFiles/absl_malloc_internal.dir/internal/low_level_alloc.cc.o
+/home/manhhv/toolchains/gcc-arm-8.3-2019.03-x86_64-aarch64-linux-gnu/bin/aarch64-linux-gnu-ranlib libabsl_malloc_internal.a

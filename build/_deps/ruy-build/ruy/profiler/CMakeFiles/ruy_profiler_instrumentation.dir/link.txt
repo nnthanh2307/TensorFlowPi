@@ -1,0 +1,2 @@
+/home/manhhv/toolchains/gcc-arm-8.3-2019.03-x86_64-aarch64-linux-gnu/bin/aarch64-linux-gnu-ar qc libruy_profiler_instrumentation.a  CMakeFiles/ruy_profiler_instrumentation.dir/instrumentation.cc.o
+/home/manhhv/toolchains/gcc-arm-8.3-2019.03-x86_64-aarch64-linux-gnu/bin/aarch64-linux-gnu-ranlib libruy_profiler_instrumentation.a

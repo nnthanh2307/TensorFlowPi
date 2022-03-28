@@ -1,0 +1,2 @@
+/home/manhhv/toolchains/gcc-arm-8.3-2019.03-x86_64-aarch64-linux-gnu/bin/aarch64-linux-gnu-ar qc libflatbuffers.a  CMakeFiles/flatbuffers.dir/src/idl_parser.cpp.o CMakeFiles/flatbuffers.dir/src/idl_gen_text.cpp.o CMakeFiles/flatbuffers.dir/src/reflection.cpp.o CMakeFiles/flatbuffers.dir/src/util.cpp.o
+/home/manhhv/toolchains/gcc-arm-8.3-2019.03-x86_64-aarch64-linux-gnu/bin/aarch64-linux-gnu-ranlib libflatbuffers.a

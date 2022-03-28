@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/manhhv/Documents/QTApp/TensorFlow/tensorflow_src/build/ruy/ruy/denormal.cc
+ruy/denormal.h
+/home/manhhv/Documents/QTApp/TensorFlow/tensorflow_src/build/ruy/ruy/ruy/denormal.h
+xmmintrin.h
+-
+intrin.h
+-
+
+ruy/ruy/denormal.h
+cstdint
+-
+

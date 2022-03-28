@@ -1,0 +1,2 @@
+/home/manhhv/toolchains/gcc-arm-8.3-2019.03-x86_64-aarch64-linux-gnu/bin/aarch64-linux-gnu-ar qc libruy_block_map.a  CMakeFiles/ruy_block_map.dir/block_map.cc.o
+/home/manhhv/toolchains/gcc-arm-8.3-2019.03-x86_64-aarch64-linux-gnu/bin/aarch64-linux-gnu-ranlib libruy_block_map.a

@@ -1,0 +1,14 @@
+# Target labels
+ fp16
+# Source files and their labels
+/home/manhhv/Documents/QTApp/TensorFlow/tensorflow_src/build/FP16-download/CMakeFiles/fp16
+/home/manhhv/Documents/QTApp/TensorFlow/tensorflow_src/build/FP16-download/CMakeFiles/fp16.rule
+/home/manhhv/Documents/QTApp/TensorFlow/tensorflow_src/build/FP16-download/CMakeFiles/fp16-complete.rule
+/home/manhhv/Documents/QTApp/TensorFlow/tensorflow_src/build/FP16-download/fp16-prefix/src/fp16-stamp/fp16-install.rule
+/home/manhhv/Documents/QTApp/TensorFlow/tensorflow_src/build/FP16-download/fp16-prefix/src/fp16-stamp/fp16-mkdir.rule
+/home/manhhv/Documents/QTApp/TensorFlow/tensorflow_src/build/FP16-download/fp16-prefix/src/fp16-stamp/fp16-download.rule
+/home/manhhv/Documents/QTApp/TensorFlow/tensorflow_src/build/FP16-download/fp16-prefix/src/fp16-stamp/fp16-update.rule
+/home/manhhv/Documents/QTApp/TensorFlow/tensorflow_src/build/FP16-download/fp16-prefix/src/fp16-stamp/fp16-patch.rule
+/home/manhhv/Documents/QTApp/TensorFlow/tensorflow_src/build/FP16-download/fp16-prefix/src/fp16-stamp/fp16-configure.rule
+/home/manhhv/Documents/QTApp/TensorFlow/tensorflow_src/build/FP16-download/fp16-prefix/src/fp16-stamp/fp16-build.rule
+/home/manhhv/Documents/QTApp/TensorFlow/tensorflow_src/build/FP16-download/fp16-prefix/src/fp16-stamp/fp16-test.rule

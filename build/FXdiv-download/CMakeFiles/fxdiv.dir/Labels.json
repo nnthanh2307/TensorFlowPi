@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/manhhv/Documents/QTApp/TensorFlow/tensorflow_src/build/FXdiv-download/CMakeFiles/fxdiv"
+		},
+		{
+			"file" : "/home/manhhv/Documents/QTApp/TensorFlow/tensorflow_src/build/FXdiv-download/CMakeFiles/fxdiv.rule"
+		},
+		{
+			"file" : "/home/manhhv/Documents/QTApp/TensorFlow/tensorflow_src/build/FXdiv-download/CMakeFiles/fxdiv-complete.rule"
+		},
+		{
+			"file" : "/home/manhhv/Documents/QTApp/TensorFlow/tensorflow_src/build/FXdiv-download/fxdiv-prefix/src/fxdiv-stamp/fxdiv-install.rule"
+		},
+		{
+			"file" : "/home/manhhv/Documents/QTApp/TensorFlow/tensorflow_src/build/FXdiv-download/fxdiv-prefix/src/fxdiv-stamp/fxdiv-mkdir.rule"
+		},
+		{
+			"file" : "/home/manhhv/Documents/QTApp/TensorFlow/tensorflow_src/build/FXdiv-download/fxdiv-prefix/src/fxdiv-stamp/fxdiv-download.rule"
+		},
+		{
+			"file" : "/home/manhhv/Documents/QTApp/TensorFlow/tensorflow_src/build/FXdiv-download/fxdiv-prefix/src/fxdiv-stamp/fxdiv-update.rule"
+		},
+		{
+			"file" : "/home/manhhv/Documents/QTApp/TensorFlow/tensorflow_src/build/FXdiv-download/fxdiv-prefix/src/fxdiv-stamp/fxdiv-patch.rule"
+		},
+		{
+			"file" : "/home/manhhv/Documents/QTApp/TensorFlow/tensorflow_src/build/FXdiv-download/fxdiv-prefix/src/fxdiv-stamp/fxdiv-configure.rule"
+		},
+		{
+			"file" : "/home/manhhv/Documents/QTApp/TensorFlow/tensorflow_src/build/FXdiv-download/fxdiv-prefix/src/fxdiv-stamp/fxdiv-build.rule"
+		},
+		{
+			"file" : "/home/manhhv/Documents/QTApp/TensorFlow/tensorflow_src/build/FXdiv-download/fxdiv-prefix/src/fxdiv-stamp/fxdiv-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"fxdiv"
+		],
+		"name" : "fxdiv"
+	}
+}

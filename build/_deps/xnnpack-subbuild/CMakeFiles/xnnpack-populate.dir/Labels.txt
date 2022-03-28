@@ -1,0 +1,14 @@
+# Target labels
+ xnnpack-populate
+# Source files and their labels
+/home/manhhv/Documents/QTApp/TensorFlow/tensorflow_src/build/_deps/xnnpack-subbuild/CMakeFiles/xnnpack-populate
+/home/manhhv/Documents/QTApp/TensorFlow/tensorflow_src/build/_deps/xnnpack-subbuild/CMakeFiles/xnnpack-populate.rule
+/home/manhhv/Documents/QTApp/TensorFlow/tensorflow_src/build/_deps/xnnpack-subbuild/CMakeFiles/xnnpack-populate-complete.rule
+/home/manhhv/Documents/QTApp/TensorFlow/tensorflow_src/build/src/xnnpack-populate-stamp/xnnpack-populate-install.rule
+/home/manhhv/Documents/QTApp/TensorFlow/tensorflow_src/build/src/xnnpack-populate-stamp/xnnpack-populate-mkdir.rule
+/home/manhhv/Documents/QTApp/TensorFlow/tensorflow_src/build/src/xnnpack-populate-stamp/xnnpack-populate-download.rule
+/home/manhhv/Documents/QTApp/TensorFlow/tensorflow_src/build/src/xnnpack-populate-stamp/xnnpack-populate-update.rule
+/home/manhhv/Documents/QTApp/TensorFlow/tensorflow_src/build/src/xnnpack-populate-stamp/xnnpack-populate-patch.rule
+/home/manhhv/Documents/QTApp/TensorFlow/tensorflow_src/build/src/xnnpack-populate-stamp/xnnpack-populate-configure.rule
+/home/manhhv/Documents/QTApp/TensorFlow/tensorflow_src/build/src/xnnpack-populate-stamp/xnnpack-populate-build.rule
+/home/manhhv/Documents/QTApp/TensorFlow/tensorflow_src/build/src/xnnpack-populate-stamp/xnnpack-populate-test.rule

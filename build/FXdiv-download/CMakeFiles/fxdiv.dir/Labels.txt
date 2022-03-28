@@ -1,0 +1,14 @@
+# Target labels
+ fxdiv
+# Source files and their labels
+/home/manhhv/Documents/QTApp/TensorFlow/tensorflow_src/build/FXdiv-download/CMakeFiles/fxdiv
+/home/manhhv/Documents/QTApp/TensorFlow/tensorflow_src/build/FXdiv-download/CMakeFiles/fxdiv.rule
+/home/manhhv/Documents/QTApp/TensorFlow/tensorflow_src/build/FXdiv-download/CMakeFiles/fxdiv-complete.rule
+/home/manhhv/Documents/QTApp/TensorFlow/tensorflow_src/build/FXdiv-download/fxdiv-prefix/src/fxdiv-stamp/fxdiv-install.rule
+/home/manhhv/Documents/QTApp/TensorFlow/tensorflow_src/build/FXdiv-download/fxdiv-prefix/src/fxdiv-stamp/fxdiv-mkdir.rule
+/home/manhhv/Documents/QTApp/TensorFlow/tensorflow_src/build/FXdiv-download/fxdiv-prefix/src/fxdiv-stamp/fxdiv-download.rule
+/home/manhhv/Documents/QTApp/TensorFlow/tensorflow_src/build/FXdiv-download/fxdiv-prefix/src/fxdiv-stamp/fxdiv-update.rule
+/home/manhhv/Documents/QTApp/TensorFlow/tensorflow_src/build/FXdiv-download/fxdiv-prefix/src/fxdiv-stamp/fxdiv-patch.rule
+/home/manhhv/Documents/QTApp/TensorFlow/tensorflow_src/build/FXdiv-download/fxdiv-prefix/src/fxdiv-stamp/fxdiv-configure.rule
+/home/manhhv/Documents/QTApp/TensorFlow/tensorflow_src/build/FXdiv-download/fxdiv-prefix/src/fxdiv-stamp/fxdiv-build.rule
+/home/manhhv/Documents/QTApp/TensorFlow/tensorflow_src/build/FXdiv-download/fxdiv-prefix/src/fxdiv-stamp/fxdiv-test.rule

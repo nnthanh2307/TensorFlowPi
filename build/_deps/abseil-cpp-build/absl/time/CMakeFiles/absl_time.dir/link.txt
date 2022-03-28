@@ -1,0 +1,2 @@
+/home/manhhv/toolchains/gcc-arm-8.3-2019.03-x86_64-aarch64-linux-gnu/bin/aarch64-linux-gnu-ar qc libabsl_time.a  CMakeFiles/absl_time.dir/civil_time.cc.o CMakeFiles/absl_time.dir/clock.cc.o CMakeFiles/absl_time.dir/duration.cc.o CMakeFiles/absl_time.dir/format.cc.o CMakeFiles/absl_time.dir/time.cc.o
+/home/manhhv/toolchains/gcc-arm-8.3-2019.03-x86_64-aarch64-linux-gnu/bin/aarch64-linux-gnu-ranlib libabsl_time.a

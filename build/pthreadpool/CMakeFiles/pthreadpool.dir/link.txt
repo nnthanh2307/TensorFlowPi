@@ -1,0 +1,2 @@
+/home/manhhv/toolchains/gcc-arm-8.3-2019.03-x86_64-aarch64-linux-gnu/bin/aarch64-linux-gnu-ar qc libpthreadpool.a  CMakeFiles/pthreadpool.dir/src/portable-api.c.o CMakeFiles/pthreadpool.dir/src/memory.c.o CMakeFiles/pthreadpool.dir/src/pthreads.c.o
+/home/manhhv/toolchains/gcc-arm-8.3-2019.03-x86_64-aarch64-linux-gnu/bin/aarch64-linux-gnu-ranlib libpthreadpool.a

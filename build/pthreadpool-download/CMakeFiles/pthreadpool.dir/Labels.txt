@@ -1,0 +1,14 @@
+# Target labels
+ pthreadpool
+# Source files and their labels
+/home/manhhv/Documents/QTApp/TensorFlow/tensorflow_src/build/pthreadpool-download/CMakeFiles/pthreadpool
+/home/manhhv/Documents/QTApp/TensorFlow/tensorflow_src/build/pthreadpool-download/CMakeFiles/pthreadpool.rule
+/home/manhhv/Documents/QTApp/TensorFlow/tensorflow_src/build/pthreadpool-download/CMakeFiles/pthreadpool-complete.rule
+/home/manhhv/Documents/QTApp/TensorFlow/tensorflow_src/build/pthreadpool-download/pthreadpool-prefix/src/pthreadpool-stamp/pthreadpool-install.rule
+/home/manhhv/Documents/QTApp/TensorFlow/tensorflow_src/build/pthreadpool-download/pthreadpool-prefix/src/pthreadpool-stamp/pthreadpool-mkdir.rule
+/home/manhhv/Documents/QTApp/TensorFlow/tensorflow_src/build/pthreadpool-download/pthreadpool-prefix/src/pthreadpool-stamp/pthreadpool-download.rule
+/home/manhhv/Documents/QTApp/TensorFlow/tensorflow_src/build/pthreadpool-download/pthreadpool-prefix/src/pthreadpool-stamp/pthreadpool-update.rule
+/home/manhhv/Documents/QTApp/TensorFlow/tensorflow_src/build/pthreadpool-download/pthreadpool-prefix/src/pthreadpool-stamp/pthreadpool-patch.rule
+/home/manhhv/Documents/QTApp/TensorFlow/tensorflow_src/build/pthreadpool-download/pthreadpool-prefix/src/pthreadpool-stamp/pthreadpool-configure.rule
+/home/manhhv/Documents/QTApp/TensorFlow/tensorflow_src/build/pthreadpool-download/pthreadpool-prefix/src/pthreadpool-stamp/pthreadpool-build.rule
+/home/manhhv/Documents/QTApp/TensorFlow/tensorflow_src/build/pthreadpool-download/pthreadpool-prefix/src/pthreadpool-stamp/pthreadpool-test.rule

@@ -1,0 +1,14 @@
+# Target labels
+ psimd
+# Source files and their labels
+/home/manhhv/Documents/QTApp/TensorFlow/tensorflow_src/build/psimd-download/CMakeFiles/psimd
+/home/manhhv/Documents/QTApp/TensorFlow/tensorflow_src/build/psimd-download/CMakeFiles/psimd.rule
+/home/manhhv/Documents/QTApp/TensorFlow/tensorflow_src/build/psimd-download/CMakeFiles/psimd-complete.rule
+/home/manhhv/Documents/QTApp/TensorFlow/tensorflow_src/build/psimd-download/psimd-prefix/src/psimd-stamp/psimd-install.rule
+/home/manhhv/Documents/QTApp/TensorFlow/tensorflow_src/build/psimd-download/psimd-prefix/src/psimd-stamp/psimd-mkdir.rule
+/home/manhhv/Documents/QTApp/TensorFlow/tensorflow_src/build/psimd-download/psimd-prefix/src/psimd-stamp/psimd-download.rule
+/home/manhhv/Documents/QTApp/TensorFlow/tensorflow_src/build/psimd-download/psimd-prefix/src/psimd-stamp/psimd-update.rule
+/home/manhhv/Documents/QTApp/TensorFlow/tensorflow_src/build/psimd-download/psimd-prefix/src/psimd-stamp/psimd-patch.rule
+/home/manhhv/Documents/QTApp/TensorFlow/tensorflow_src/build/psimd-download/psimd-prefix/src/psimd-stamp/psimd-configure.rule
+/home/manhhv/Documents/QTApp/TensorFlow/tensorflow_src/build/psimd-download/psimd-prefix/src/psimd-stamp/psimd-build.rule
+/home/manhhv/Documents/QTApp/TensorFlow/tensorflow_src/build/psimd-download/psimd-prefix/src/psimd-stamp/psimd-test.rule

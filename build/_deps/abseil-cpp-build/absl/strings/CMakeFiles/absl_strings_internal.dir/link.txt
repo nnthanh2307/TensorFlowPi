@@ -1,0 +1,2 @@
+/home/manhhv/toolchains/gcc-arm-8.3-2019.03-x86_64-aarch64-linux-gnu/bin/aarch64-linux-gnu-ar qc libabsl_strings_internal.a  CMakeFiles/absl_strings_internal.dir/internal/ostringstream.cc.o CMakeFiles/absl_strings_internal.dir/internal/utf8.cc.o CMakeFiles/absl_strings_internal.dir/internal/escaping.cc.o
+/home/manhhv/toolchains/gcc-arm-8.3-2019.03-x86_64-aarch64-linux-gnu/bin/aarch64-linux-gnu-ranlib libabsl_strings_internal.a
